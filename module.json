@@ -16,10 +16,7 @@
         "scripts/patrol.js"
     ],
     "styles": [
-        "draw-path.css"
-    ],
-    "templates": [
-        "draw-path.html"
+        "styles/draw-path.css"
     ],
     "url": "https://github.com/chrispdharman/patrolling-npcs",
     "manifest": "https://raw.githubusercontent.com/chrispdharman/patrolling-npcs/feature/init/module.json",
