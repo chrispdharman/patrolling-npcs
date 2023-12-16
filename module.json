@@ -4,7 +4,7 @@
     "description": "Automated movement for your tokens in Foundry Virtual Table Top.",
     "authors": [
         {
-        "name": "Christopher Harman"
+            "name": "Christopher Harman"
         }
     ],
     "version": "0.0.1",
