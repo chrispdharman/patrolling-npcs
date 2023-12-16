@@ -1,0 +1,18 @@
+{
+    "id": "patrolling-npcs",
+    "title": "Patrolling NPCs",
+    "description": "Automated movement for your tokens in Foundry Virtual Table Top.",
+    "authors": [
+        {
+        "name": "Christopher Harman"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "scripts": [
+        "scripts/patrol.js"
+    ]
+}
