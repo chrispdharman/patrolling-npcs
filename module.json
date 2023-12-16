@@ -22,6 +22,6 @@
         "draw-path.html"
     ],
     "url": "https://github.com/chrispdharman/patrolling-npcs",
-    "manifest": "https://raw.githubusercontent.com/ardittristan/VTTStreamUtils/feature/init/module.json",
+    "manifest": "https://raw.githubusercontent.com/chrispdharman/patrolling-npcs/feature/init/module.json",
     "download": "https://github.com/chrispdharman/patrolling-npcs/releases/latest/download/patrolling-npcs.zip"
 }
